@@ -2,6 +2,7 @@
 ## 使用
 ### 下载
 首先从[GitHub](https://github.com/ja-netfilter/ja-netfilter/releases)上下载源码，放到用户文件夹，如: `/Users/???/` 中
+
 然后，从[123云盘](https://www.123pan.com/s/motA-zO6Rv)下载 `mymap.jar` 放入 `ja-netfilter` 文件夹中的 `plugins` 文件夹，比如
 ```
 /Users/???/ja-netfilter/plugins/
