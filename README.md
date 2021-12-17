@@ -8,7 +8,7 @@
 /Users/???/ja-netfilter/plugins/
 ```
 
-然后将源码下载、解压到 `ja-netfilter` 文件夹，在终端运行
+然后将本源码下载、解压到 `ja-netfilter` 文件夹，在终端运行
 ```
 cd ja-netfilter && python3 main.py
 ```
